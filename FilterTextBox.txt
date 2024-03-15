@@ -1,0 +1,12 @@
+/* Filter Text */
+
+.theme-entry .filterTxt:focus-within {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
